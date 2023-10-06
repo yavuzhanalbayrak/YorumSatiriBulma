@@ -1,0 +1,34 @@
+Fonksiyon Adı: Motor
+
+
+Varsayılan kurucu fonksiyon
+
+---------------------------------------------------
+Fonksiyon Adı: Motor
+
+
+
+@param motorNo UUID olarak motor id
+@return motor instance
+
+---------------------------------------------------
+Fonksiyon Adı: calistir
+
+
+calisiyor true yapılıyor
+
+---------------------------------------------------
+Fonksiyon Adı: durdur
+
+
+Motorun durdurulması //
+
+---------------------------------------------------
+Fonksiyon Adı: getMotorNo
+
+
+---------------------------------------------------
+Fonksiyon Adı: toString
+
+
+---------------------------------------------------
